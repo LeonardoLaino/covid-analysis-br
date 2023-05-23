@@ -4,7 +4,7 @@ Projeto que visa analisar e extrair conhecimento dos dados de como foram os anos
 * Os dados utilizados neste estudado são provenientes da Universidade de John Hopkins, que por sua vez realizou um excelente trabalho durante os anos de pandemia coletando e analisando dados acerca deste assunto.
 ___
 
-# v0.1 - Development (Current)
+# v0.1 - Development
 
 * Criação da Branch Development
 
@@ -15,3 +15,16 @@ ___
 
 * Iniciado a parte de Data Wrangling
 ____
+
+
+# v0.2 - Development (Current)
+
+* Continuação do Data Wrangling (dados dos casos)
+
+* Adicionado célula para importar os dados no formato .pkl
+___
+
+
+# (Future/Next)
+
+* Transformar a seção de Data Extraction dos dados de casos em um script .py
