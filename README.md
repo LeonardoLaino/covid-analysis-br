@@ -17,7 +17,7 @@ ___
 ____
 
 
-# v0.2 - Development (Current)
+# v0.2 - Development
 
 * Continuação do Data Wrangling (dados dos casos)
 
@@ -25,6 +25,16 @@ ____
 ___
 
 
+# v0.3 - Development (Current)
+
+* Término do Data Wrangling (dados dos casos)
+
+* Export dos dados manipulados dos casos para .csv (`file: covid-cases-wrangled.csv`)
+___
 # (Future/Next)
 
 * Transformar a seção de Data Extraction dos dados de casos em um script .py
+
+* Iniciar seção dos dados de vacinação.
+
+* Iniciar ETL dos dados de vacinação.
