@@ -34,8 +34,6 @@ ___
 
 # v0.4 - Development (Current)
 
-(Future/Next)
-
 * Término do Data Wrangling (dados de vacinação)
 
 * Export dos dados manipulados das vacinas para .csv (`file: vaccines-wrangled.csv`)
