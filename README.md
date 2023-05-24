@@ -25,12 +25,23 @@ ____
 ___
 
 
-# v0.3 - Development (Current)
+# v0.3 - Development 
 
 * Término do Data Wrangling (dados dos casos)
 
 * Export dos dados manipulados dos casos para .csv (`file: covid-cases-wrangled.csv`)
 ___
+
+# v0.4 - Development (Current)
+
+(Future/Next)
+
+* Término do Data Wrangling (dados de vacinação)
+
+* Export dos dados manipulados das vacinas para .csv (`file: vaccines-wrangled.csv`)
+___
+
+
 # (Future/Next)
 
 * Transformar a seção de Data Extraction dos dados de casos em um script .py
@@ -38,3 +49,7 @@ ___
 * Iniciar seção dos dados de vacinação.
 
 * Iniciar ETL dos dados de vacinação.
+
+* Merge com a main
+
+* Criar dashboard no Google Data Studio
